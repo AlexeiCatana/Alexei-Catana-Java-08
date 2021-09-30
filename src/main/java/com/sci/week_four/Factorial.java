@@ -11,7 +11,7 @@ public class Factorial {
         long number = scanner.nextInt();
 
         int i = 1;
-        long factorial = 1;
+        long factorial= 1;
 
         while (i <= number) {
             factorial *= i;
