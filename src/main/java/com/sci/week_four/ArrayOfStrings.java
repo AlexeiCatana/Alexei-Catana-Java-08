@@ -1,4 +1,4 @@
-package com.sci.week_five;
+package com.sci.week_four;
 
 public class ArrayOfStrings {
 

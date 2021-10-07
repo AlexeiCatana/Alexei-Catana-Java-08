@@ -1,4 +1,4 @@
-package com.sci.week_six;
+package com.sci.week_four;
 
 import java.util.Scanner;
 
