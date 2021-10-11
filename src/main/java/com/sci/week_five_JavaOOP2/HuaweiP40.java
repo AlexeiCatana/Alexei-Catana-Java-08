@@ -11,11 +11,6 @@ public class HuaweiP40 extends Huawei {
         setCurrentBatteryLevel(BATTERY_LIFE);
     }
 
-    public HuaweiP40(String color, String material) {
-        this.color = color;
-        this.material = material;
-    }
-
     public HuaweiP40() {
 
     }
