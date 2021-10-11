@@ -6,6 +6,11 @@ public class Iphone13pro extends Iphone {
     private String color;
     private String material;
 
+    Iphone13pro(String IMEI) {
+        setIMEI(IMEI);
+        setCurrentBatteryLevel(BATTERY_LIFE);
+    }
+
     public static int getBatteryLife() {
         return BATTERY_LIFE;
     }
