@@ -6,11 +6,6 @@ public abstract class HuaweiP40pro extends Huawei {
     private String color;
     private String material;
 
-    HuaweiP40pro(String IMEI) {
-        setIMEI(IMEI);
-        setCurrentBatteryLevel(BATTERY_LIFE);
-    }
-
     public static int getBatteryLife() {
         return BATTERY_LIFE;
     }
