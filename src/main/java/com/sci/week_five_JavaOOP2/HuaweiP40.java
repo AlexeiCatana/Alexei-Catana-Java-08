@@ -6,10 +6,6 @@ public class HuaweiP40 extends Huawei {
     private String color;
     private String material;
 
-    public HuaweiP40() {
-
-    }
-
     public static int getBatteryLife() {
         return BATTERY_LIFE;
     }
