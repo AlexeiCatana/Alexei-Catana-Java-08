@@ -6,11 +6,6 @@ public class HuaweiP40 extends Huawei {
     private String color;
     private String material;
 
-    HuaweiP40(String IMEI) {
-        setIMEI(IMEI);
-        setCurrentBatteryLevel(BATTERY_LIFE);
-    }
-
     public HuaweiP40() {
 
     }
