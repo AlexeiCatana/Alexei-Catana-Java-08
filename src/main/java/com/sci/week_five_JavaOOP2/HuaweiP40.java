@@ -39,5 +39,4 @@ public class HuaweiP40 extends Huawei {
     public void setMaterial(String material) {
         this.material = material;
     }
-
 }
