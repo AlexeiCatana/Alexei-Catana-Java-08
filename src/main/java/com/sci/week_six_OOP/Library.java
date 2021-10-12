@@ -1,10 +1,11 @@
 package com.sci.week_six_OOP;
 
 import java.util.ArrayList;
+import java.util.List;
 
 public class Library {
 
-    private ArrayList<Book> catalog = new ArrayList();
+    private List<Book> catalog = new ArrayList<>();
 
     void addBook(String type, String bookName, int numberOfPages, String specificInfo) {
         if (type.equalsIgnoreCase("Novel")) {
