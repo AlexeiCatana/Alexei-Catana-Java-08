@@ -4,7 +4,6 @@ public class Book {
     private String bookName;
     private int numberOfPages;
 
-
     Book(String bookName, int numberOfPages) {
 
         this.bookName = bookName;
