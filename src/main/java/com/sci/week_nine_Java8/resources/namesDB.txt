@@ -1,0 +1,5 @@
+Alexei, Catana, 1986-07-29
+Stefan, Popescu, 1985-06-23
+Alexandru, Creanga, 1982-11-28
+Magyari, Hajni, 1990-01-08
+Vlad, Suciu, 1999-11-13
